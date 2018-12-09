@@ -1,0 +1,16 @@
+
+button.btn {
+  margin-right: 5px;
+}
+
+table tbody tr.selected{
+    background-color: #E5FECB !important;
+}
+
+label.error {
+	color: red;
+}
+
+label.checkbox{
+  margin-top: -20px !important;
+}
